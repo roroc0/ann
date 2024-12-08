@@ -1,0 +1,5 @@
+.idea
+build
+vgcore*
+.vscode
+docs/

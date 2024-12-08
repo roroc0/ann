@@ -1,0 +1,4 @@
+input_size=784
+hidden_sizes=128,65
+num_hidden_layers=2
+output_size=10
